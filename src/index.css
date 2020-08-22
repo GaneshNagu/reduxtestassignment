@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: rgb(146,211,221);
+ background: radial-gradient(circle, rgba(146,211,221,1) 0%, rgba(241,234,130,0.22172619047619047) 100%);
+}
